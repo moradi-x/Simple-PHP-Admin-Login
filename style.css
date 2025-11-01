@@ -1,0 +1,95 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  box-sizing: none;
+  background-color: #ffffff;
+}
+.a {
+  background-color: #d8d8d8;
+  /* text-align: center; */
+  width: 500px;
+  display: inline-block;
+  margin-top: 100px;
+  margin-left: 500px;
+  height: 450px;
+  border: 3px solid rgb(81, 70, 134);
+  border-radius: 20px;
+}
+.error-message {
+  /* display: none; پیام خطا را پنهان می‌کند */
+  min-height: 20px; /* تنظیم ارتفاع حداقل برای پیام خطا */
+  /* max-height: 500px; */
+  margin-top: 30px;
+  margin-bottom: 10px; /* فاصله از پایین */
+  color: red; /* رنگ متن پیام خطا */
+  text-align: center; /* تنظیم متن به صورت مرکزی */
+  background-color: #d8d8d8; /* رنگ پس‌زمینه ثابت */
+  font-size: 25px;
+  /* border: 1px solid red; */
+}
+h5 {
+  background-color: #d8d8d8; /* رنگ پس‌زمینه ثابت */
+}
+
+h1 {
+  display: block;
+  color: rgb(0, 4, 8);
+  margin-top: 35px;
+  background-color: #d8d8d8;
+  margin-left: 200px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.form {
+  background-color: #d8d8d8;
+}
+.b {
+  display: block;
+  background-color: #d8d8d8;
+  margin-top: 70px;
+  margin-left: 48px;
+  font-size: 19px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.c {
+  display: block;
+  font-size: 25px;
+  margin-top: 15px;
+  width: 400px;
+  background-color: #d8d8d8;
+  border: 3px solid rgb(0, 0, 0);
+  border-radius: 10px;
+}
+.d {
+  display: block;
+  background-color: #d8d8d8;
+  margin-top: 25px;
+  margin-left: 0px;
+  font-size: 19px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.e {
+  display: block;
+  font-size: 25px;
+  margin-top: 15px;
+  width: 400px;
+  background-color: #d8d8d8;
+  border: 3px solid rgb(0, 0, 0);
+  border-radius: 10px;
+}
+.m {
+  display: inline-block;
+  background-color: #d8d8d8;
+}
+.n {
+  display: inline-block;
+  margin-top: 30px;
+  width: 200px;
+  padding: 5px;
+  margin-left: 100px;
+  background-color: rgb(73, 171, 73);
+  font-size: 15px;
+  border: 3px solid rgb(0, 0, 0);
+  border-radius: 7px;
+}
